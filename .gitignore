@@ -1,0 +1,12 @@
+tests/__pycache__/declension_900.cpython-314.pyc
+tests/declension_100.py
+tests/declension_100_after.csv
+tests/declension_100_findings.md
+tests/declension_100_results.csv
+tests/declension_900.py
+tests/declension_900_after.csv
+tests/declension_900_findings.md
+tests/declension_900_results.csv
+tests/declension_900_rules.csv
+tests/declension_900_rules_office.csv
+tests/test_known_declensions.py
